@@ -27,3 +27,7 @@ Command to view
 # PYTHON
 
 run python using python map.py, sort.py and red.py in order. (Python 2.6)
+
+Timing details in the outputfor both Python and Hadoop.
+
+DataSet URL : https://drive.google.com/open?id=0ByF9VTm44xRNWXkzRk9oNHRSVEE
