@@ -26,7 +26,7 @@ Command to view
 
 # PYTHON
 
-run python using python map.py, sort.py and red.py in order. (Python 2.6)
+run python using python mapper.py, sort.py and reducer.py in order from the Python folder. (Python 2.6)
 
 Timing details in the outputfor both Python and Hadoop.
 
