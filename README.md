@@ -1,7 +1,5 @@
 # Hadoop-vs-Python
-Comparative Analysis Study of Hadoop (Distributed) and Python (Serial) Execution for Big Data Set.
-A dataset text file of Sales is take which contains six columns seperated by tab which include date,time,store,item,cost,payment.
-Our aim is to find the time taken by Hadoop and Python for executing same task. Task - Finding Total Cost for every Store.
+Comparative Analysis Study of Hadoop (Distributed) and Python (Serial) Execution for Big Data Set. A dataset text file of Sales is taken which contains six columns separated by a tab which include date, time, store, item, cost, payment. The aim is to find the time taken by Hadoop and Python for executing the same task. Task - Finding Total Cost for every Store.
 
 # HADOOP
 
