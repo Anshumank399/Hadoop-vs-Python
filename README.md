@@ -29,4 +29,3 @@ run python using python mapper.py, sort.py and reducer.py in order from the Pyth
 
 Timing details in the outputfor both Python and Hadoop.
 
-DataSet URL : https://drive.google.com/open?id=0ByF9VTm44xRNWnBOZ3h1dWVrU1E
