@@ -16,7 +16,7 @@ hadoop fs -put purchases.txt myinput</b>
 
 Navigate to the code folder with the mapper.py and reducer.py
 
-<b>hs mapper.py reducer.py myinput output1 </b> *//hs used for hadoop streaming as Python used instead of default Java*
+<b>hs mapper.py reducer.py myinput output1 </b> *hs used for hadoop streaming as Python used instead of default Java*
 
 Output saved in the dir output1
 Command to view
